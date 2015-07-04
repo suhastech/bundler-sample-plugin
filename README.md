@@ -1,0 +1,1 @@
+# bundler-sample-plugin
